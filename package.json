@@ -1,0 +1,19 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightCrawler3/DataStructures.git"
+  },
+  "author": "Manish Baraskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnightCrawler3/DataStructures/issues"
+  },
+  "homepage": "https://github.com/KnightCrawler3/DataStructures#readme"
+}
